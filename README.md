@@ -8,7 +8,7 @@ Em constante aprendizado e exploração de Banco de Dados, Engenharia de Dados e
 ### Tecnologias e Ferramentas que estou explorando:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-00ADEF?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
