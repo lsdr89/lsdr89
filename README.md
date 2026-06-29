@@ -1,16 +1,28 @@
-## Hi there 👋
+### Olá, eu sou Leandro ✌️
 
-<!--
-**lsdr89/lsdr89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de Infraestrutura com foco atual em Dados.
+Em constante aprendizado e exploração de Banco de Dados, Engenharia de Dados e as mais recentes tecnologias para construir soluções robustas e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e Ferramentas que estou explorando:
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-00ADEF?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### O que você pode encontrar aqui:
+
+*   Projetos de Infraestrutura e DevOps.
+*   Estudos e implementações em Banco de Dados (SQL, NoSQL).
+*   Pipelines e arquiteturas de Engenharia de Dados.
+*   Automação e scripts em Python.
+
+---
+
+
+<!-- Adicione outros links de redes sociais aqui, se desejar -->
+
