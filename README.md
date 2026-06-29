@@ -11,6 +11,10 @@ Em constante aprendizado e exploração de Banco de Dados, Engenharia de Dados e
 ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-00ADEF?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23F45B2A.svg?style=for-the-badge&logo=docker&logoColor=white )
+![Terraform](https://img.shields.io/badge/terraform-%234781F4.svg?style=for-the-badge&logo=terraform&logoColor=white )
+![dbt](https://img.shields.io/badge/dbt-FF69B4.svg?style=for-the-badge&logo=dbt&logoColor=white )
+
 
 ---
 
