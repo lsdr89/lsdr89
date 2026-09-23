@@ -14,7 +14,7 @@ Em constante aprendizado e exploração de Banco de Dados, Engenharia de Dados e
 
 ### O que você pode encontrar aqui:
 
-*   Projetos de Infraestrutura e DevOps.
+*   Projetos de infraestrutura cloud e em container.
 *   Estudos e implementações em Banco de Dados (SQL, NoSQL).
 *   Pipelines e arquiteturas de Engenharia de Dados.
 *   Automação e scripts em Python.
